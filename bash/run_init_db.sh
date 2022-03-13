@@ -5,6 +5,6 @@ $ docker run --name pip-postgres -v "$(pwd)"/../sql:/Ipopova_sql -e POSTGRES_PAS
 $ docker exec -it pip-postgres bash
 cd ../'\Program Files\Git\Ipopova_sql'
 # psql -U test_sde -d demo -f demo.sql
-test555
+test5554444
 
 
